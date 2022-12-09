@@ -11,7 +11,7 @@ const Place = ({ place }) => {
                 <p className='text-accent font-semibold'>${price}</p>
                 <p>{description}</p>
                 <div className="card-actions justify-end">
-                    <button className="btn btn-primary">Buy Now</button>
+                    <button className="btn btn-primary">Visit Now</button>
                 </div>
             </div>
         </div>
